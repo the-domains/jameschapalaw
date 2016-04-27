@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[James || Chapa, PLLC]]></title>
         <description><![CDATA[James || Chapa, PLLC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jameschapalaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 14:30:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 14:36:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jameschapalaw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We focus on the legal so you can focus on picking up the pieces. Some of the most emotionally challenging times are when a loved one gets hurt. The fear, stress, and uncertainty -- we've been there and understand exactly what you're going through. Focus on healing and being with your family, and we'll take care of everything else.</p>]]></description>
-            <link>undefinedwe-focus-on-the-legal-so-you-can-focus-on-picking-up-the-pie/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30ca42ac-4f44-4695-ad05-e47b2df29d79.jpg">]]></description>
+            <link>https://thegrid.ai/jameschapalaw/we-focus-on-the-legal-so-you-can-focus-on-picking-up-the-pie/index.html</link>
             <guid isPermaLink="false">32a4da8c-4e5a-40bd-ac73-3d2f5ffa36c1</guid>
-            <pubDate>Wed, 27 Apr 2016 14:30:30 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 14:34:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
